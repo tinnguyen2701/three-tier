@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationTier.AngularUI", "PresentationTier.AngularUI\PresentationTier.AngularUI.csproj", "{AEC88B86-9FFE-4D8C-8EAF-E1FB2F0A832E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC88B86-9FFE-4D8C-8EAF-E1FB2F0A832E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC88B86-9FFE-4D8C-8EAF-E1FB2F0A832E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC88B86-9FFE-4D8C-8EAF-E1FB2F0A832E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC88B86-9FFE-4D8C-8EAF-E1FB2F0A832E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2940E1F-002D-427F-AFED-856CC2A8D532}
+	EndGlobalSection
+EndGlobal

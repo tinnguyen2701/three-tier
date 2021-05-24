@@ -1,0 +1,17 @@
+/.vs
+/PresentationTier/PresentationTier.AngularUI/bin
+/PresentationTier/PresentationTier.AngularUI/obj
+/DataTier/DataTier.SqlServer/bin
+/DataTier/DataTier.SqlServer/obj
+/ApplicationTier/ApplicationTier.Domain/bin
+/ApplicationTier/ApplicationTier.Domain/obj
+/ApplicationTier/ApplicationTier.Infrastructure/obj
+/ApplicationTier/ApplicationTier.Infrastructure/bin
+/ApplicationTier/ApplicationTier.Service/obj
+/ApplicationTier/ApplicationTier.Service/bin
+/ApplicationTier/ApplicationTier.API/bin
+/ApplicationTier/ApplicationTier.API/obj
+/ApplicationTier/ApplicationTier.API/Properties/PublishProfiles
+/ApplicationTier/.vs
+/DataTier/.vs
+/PresentationTier/.vs
